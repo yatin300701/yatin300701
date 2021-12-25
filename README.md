@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yatin chooudhary</h1>
+<h1 align="center">Hi 👋, I'm Yatin choudhary</h1>
 <p align="center">I'm a junior year undergraduate student majoring in Computer Science with an interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML , CSS , JavaScript, ReactJs, Bootstrap etc. and currently exploring NodeJs.</p>
 
 - 🔭 I’m currently working on **ReactJs**
