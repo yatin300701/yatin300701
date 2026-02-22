@@ -14,7 +14,7 @@ I’m Yatin, a full-stack developer. I like building simple, clean, user-friendl
 -  [Animation](https://github.com/yatin300701/animation)-  Animations for button, menu, card, and image
 -  [vibrant-postplace](https://github.com/yatin300701/vibrant-postplace) - Cocktail website built using GSAP.
 
---
+---
 #### Fun facts
 - I love coffee
 - No anime can beat Naruto 
